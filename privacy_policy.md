@@ -1,4 +1,4 @@
-# Privacy Policy for [Your Extension Name]
+# Privacy Policy for Mouse Position
 
 ## Data Collection and Usage
 

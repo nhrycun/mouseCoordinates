@@ -4,4 +4,4 @@
 
 This extension does not collect, use, or share any of your personal data.
 
-For any questions, please contact [Your Contact Information].
+For any questions, please contact dev.nhrycun@gmail.com.
